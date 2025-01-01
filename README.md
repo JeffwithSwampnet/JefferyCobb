@@ -2,7 +2,7 @@
 
 <h2>Certifications:</h2>
 
-- <b>Google Cybersecurity Professional Certification (December 2024)</b>
+- <b>[Google Cybersecurity Professional Certification (December 2024)]("https://coursera.org/share/045f191dd01bd1a23c2f70d67ece0450")</b>
 
 - <b>[ISC2 Cybersecurity Certification (December 2024)]("https://www.coursera.org/account/accomplishments/specialization/NA3ZIH4O04H4")</b>
 
