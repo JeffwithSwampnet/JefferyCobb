@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! <br/> <a href="(https://www.linkedin.com/in/jeffery-cobb-096b76284/)">Cybersecurity Professional</a>
+<h1>Hi, I'm Jeff! <br/> <a href="https://www.linkedin.com/in/jeffery-cobb-096b76284/">Cybersecurity Professional</a>
 
 <h2>Certifications:</h2>
 
