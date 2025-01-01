@@ -4,9 +4,9 @@
 
 - <b>Google Cybersecurity Professional Certification (December 2024)</b>
 
-- <b>ISC2 Cybersecurity Certification (December 2024)</b>
+- <b>[ISC2 Cybersecurity Certification (December 2024)]("https://www.coursera.org/account/accomplishments/specialization/NA3ZIH4O04H4")</b>
 
-  - [Praciting DS & Algos in Python]((https://www.coursera.org/account/accomplishments/specialization/NA3ZIH4O04H4))
+  - [Praciting DS & Algos in Python]()
 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
