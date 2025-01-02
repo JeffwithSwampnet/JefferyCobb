@@ -6,7 +6,7 @@
 
 - <b>[ISC2 Cybersecurity Certification (December 2024)]("https://www.coursera.org/account/accomplishments/specialization/NA3ZIH4O04H4")</b>
 
-- ![Member of MENSA](URL_of_the_photo)
+- ![Member of MENSA](Screenshot_20241207_075923_Firefox.jpg)
 
 
    - [Praciting DS & Algos in Python]()
