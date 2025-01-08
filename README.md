@@ -6,7 +6,7 @@
 
 - <b>[ISC2 Cybersecurity Certification (December 2024)]("https://www.coursera.org/account/accomplishments/specialization/NA3ZIH4O04H4")</b>
 
-- ![Member of MENSA](1139945)
+- ![Member of MENSA]("1139945")
 
 
 
